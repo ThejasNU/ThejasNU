@@ -17,6 +17,7 @@ I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. 
 
 ## 🧰 Libraries and Frameworks
 
+<a href=""><img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Discord.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
@@ -53,7 +54,7 @@ I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ThejasNU&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThejasNU&langs_count=5&theme=tokyonight)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThejasNU&layout=compact&show_icons=true&theme=tokyonight)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThejasNU&theme=tokyonight)](https://git.io/streak-stats)
 

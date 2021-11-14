@@ -54,7 +54,7 @@ I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ThejasNU&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThejasNU&layout=compact&show_icons=true&theme=tokyonight)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThejasNU&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThejasNU&theme=tokyonight)](https://git.io/streak-stats)
 

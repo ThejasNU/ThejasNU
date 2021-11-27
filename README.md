@@ -1,6 +1,6 @@
 # Hello world, I am Thejas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. A self-taught, passionate software developer interested in the field of Web development,Automation and Image processing with a knack for Competitive Programming
+I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. A self-taught, passionate software developer interested in the field of Web development and Automation with a knack for Competitive Programming
 
 ## 👨‍💻 Languages
 
@@ -44,16 +44,16 @@ I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. 
 <a href=""><img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
 
+## Coding platforms
+
+<a href = "https://www.hackerrank.com/thejasnu" ><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/> </a>
+
 ## ☎️ Contact me
 
 <a href = "https://www.linkedin.com/in/thejas-n-u-36b818204/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://www.instagram.com/thejas_n_u/" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://discordapp.com/users/764118123330273330/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href = "https://twitter.com/__TNU_" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
-
-## Coding platforms
-
-<a href = "https://www.hackerrank.com/thejasnu" ><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/> </a>
 
 ## 🏆 GitHub Stats
 

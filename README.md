@@ -63,5 +63,5 @@ I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThejasNU&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Thejas's github activity graph](https://activity-graph.herokuapp.com/graph?username=ThejasNU&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 

@@ -15,6 +15,7 @@ I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. 
 <a href=""><img alt="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
 
 ## 🧰 Libraries and Frameworks
 
@@ -48,6 +49,10 @@ I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. 
 ## Coding platforms
 
 <a href = "https://www.hackerrank.com/thejasnu" ><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/> </a>
+<a href = "https://leetcode.com/thejasNU/" ><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
+<a href = "https://auth.geeksforgeeks.org/user/thejasnu/profile" ><img alt="GeeksForGeeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a>
+<a href = "https://www.codechef.com/users/thejas_3657" ><img alt="Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/> </a>
+<a href = "https://codeforces.com/profile/ThejasNU" ><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> </a>
 
 ## ☎️ Contact me
 

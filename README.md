@@ -57,7 +57,6 @@ I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. 
 ## ☎️ Contact me
 
 <a href = "https://www.linkedin.com/in/thejas-n-u-36b818204/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://www.instagram.com/thejas_n_u/" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://discordapp.com/users/764118123330273330/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href = "https://twitter.com/__TNU_" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 

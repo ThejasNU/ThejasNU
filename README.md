@@ -1,4 +1,4 @@
-# Hello world, I am Thejas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">
+# Hello world, I am Thejas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="10px" width="10px">
 
 I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. A self-taught, passionate software developer interested in the field of Web development and Automation with a knack for Competitive Programming
 

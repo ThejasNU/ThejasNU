@@ -70,10 +70,10 @@ I'm a Computer Science Junior pursuing my B.Tech from PES University, India. A s
 
 ## 🏆 GitHub Stats
 
-![Thejas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ThejasNU&show_icons=true&theme=one_dark_pro)
+![Thejas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ThejasNU&show_icons=true&rank_icon=github&theme=one_dark_pro)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThejasNU&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThejasNU&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThejasNU&theme=one_dark_pro)](https://git.io/streak-stats)
 
 
